@@ -1,0 +1,224 @@
+Info: Processing symbol 'BT1:'.
+Info: Processing symbol 'U1:RF_Module:ESP32-WROOM-32'.
+Info: Processing symbol 'BZ1:'.
+Info: Processing symbol 'U3:Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'U2:Sensor:ASAIR_AM2302_P2.54mm_Vertical'.
+Info: Processing symbol 'DS1:Display:OLED-128O064D'.
+Connected U3 pin 11 to Net-(BT1-+).
+Added DS1 (footprint 'Display:OLED-128O064D').
+Changed REF** reference designator to DS1.
+Updated DS1 symbol association from  to /9fa6ed63-2cf6-47b1-b9d4-2b64d835f78b.
+Updated DS1 fields.
+Updated DS1 sheetname to 'Root'.
+Updated DS1 sheetfile to 'mars_rover_navigation_system.kicad_sch'.
+Updated DS1 footprint filters to 'OLED?128O064D*'.
+Add net unconnected-(DS1-E/~{RD}-Pad17).
+Connected DS1 pin 17 to unconnected-(DS1-E/~{RD}-Pad17).
+Add net unconnected-(DS1-~{CS}-Pad13).
+Connected DS1 pin 13 to unconnected-(DS1-~{CS}-Pad13).
+Add net unconnected-(DS1-D3-Pad21).
+Connected DS1 pin 21 to unconnected-(DS1-D3-Pad21).
+Add net GNDPWR.
+Connected DS1 pin 1 to GNDPWR.
+Add net unconnected-(DS1-D/~{C}-Pad15).
+Connected DS1 pin 15 to unconnected-(DS1-D/~{C}-Pad15).
+Add net unconnected-(DS1-VSS-Pad8).
+Connected DS1 pin 8 to unconnected-(DS1-VSS-Pad8).
+Add net unconnected-(DS1-D4-Pad22).
+Connected DS1 pin 22 to unconnected-(DS1-D4-Pad22).
+Add net unconnected-(DS1-C2P-Pad3).
+Connected DS1 pin 3 to unconnected-(DS1-C2P-Pad3).
+Add net unconnected-(DS1-D2-Pad20).
+Connected DS1 pin 20 to unconnected-(DS1-D2-Pad20).
+Add net unconnected-(DS1-D1-Pad19).
+Connected DS1 pin 19 to unconnected-(DS1-D1-Pad19).
+Add net Net-(DS1-VCC).
+Connected DS1 pin 28 to Net-(DS1-VCC).
+Add net unconnected-(DS1-BS2-Pad12).
+Connected DS1 pin 12 to unconnected-(DS1-BS2-Pad12).
+Add net unconnected-(DS1-VCOMH-Pad27).
+Connected DS1 pin 27 to unconnected-(DS1-VCOMH-Pad27).
+Connected DS1 pin 30 to GNDPWR.
+Add net unconnected-(DS1-D6-Pad24).
+Connected DS1 pin 24 to unconnected-(DS1-D6-Pad24).
+Add net unconnected-(DS1-C1P-Pad4).
+Connected DS1 pin 4 to unconnected-(DS1-C1P-Pad4).
+Add net unconnected-(DS1-R/~{W}-Pad16).
+Connected DS1 pin 16 to unconnected-(DS1-R/~{W}-Pad16).
+Add net unconnected-(DS1-VBAT-Pad6).
+Connected DS1 pin 6 to unconnected-(DS1-VBAT-Pad6).
+Add net unconnected-(DS1-C1N-Pad5).
+Connected DS1 pin 5 to unconnected-(DS1-C1N-Pad5).
+Add net unconnected-(DS1-BS1-Pad11).
+Connected DS1 pin 11 to unconnected-(DS1-BS1-Pad11).
+Add net unconnected-(DS1-VDD-Pad9).
+Connected DS1 pin 9 to unconnected-(DS1-VDD-Pad9).
+Add net unconnected-(DS1-C2N-Pad2).
+Connected DS1 pin 2 to unconnected-(DS1-C2N-Pad2).
+Add net unconnected-(DS1-VLSS-Pad29).
+Connected DS1 pin 29 to unconnected-(DS1-VLSS-Pad29).
+Add net unconnected-(DS1-D0-Pad18).
+Connected DS1 pin 18 to unconnected-(DS1-D0-Pad18).
+Add net unconnected-(DS1-D5-Pad23).
+Connected DS1 pin 23 to unconnected-(DS1-D5-Pad23).
+Add net unconnected-(DS1-D7-Pad25).
+Connected DS1 pin 25 to unconnected-(DS1-D7-Pad25).
+Add net unconnected-(DS1-~{RES}-Pad14).
+Connected DS1 pin 14 to unconnected-(DS1-~{RES}-Pad14).
+Add net unconnected-(DS1-NC-Pad7).
+Connected DS1 pin 7 to unconnected-(DS1-NC-Pad7).
+Add net unconnected-(DS1-BS0-Pad10).
+Connected DS1 pin 10 to unconnected-(DS1-BS0-Pad10).
+Add net unconnected-(DS1-IREF-Pad26).
+Connected DS1 pin 26 to unconnected-(DS1-IREF-Pad26).
+Added U1 (footprint 'RF_Module:ESP32-WROOM-32').
+Changed REF** reference designator to U1.
+Updated U1 symbol association from  to /146cf1d4-8df5-4121-8ecf-6d248c67577d.
+Updated U1 fields.
+Updated U1 sheetname to 'Root'.
+Updated U1 sheetfile to 'mars_rover_navigation_system.kicad_sch'.
+Updated U1 footprint filters to 'ESP32?WROOM?32*'.
+Add net unconnected-(U1-SENSOR_VP-Pad4).
+Connected U1 pin 4 to unconnected-(U1-SENSOR_VP-Pad4).
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO15-Pad23).
+Connected U1 pin 23 to unconnected-(U1-IO15-Pad23).
+Add net unconnected-(U1-SHD/SD2-Pad17).
+Connected U1 pin 17 to unconnected-(U1-SHD/SD2-Pad17).
+Add net unconnected-(U1-RXD0/IO3-Pad34).
+Connected U1 pin 34 to unconnected-(U1-RXD0/IO3-Pad34).
+Add net unconnected-(U1-SWP/SD3-Pad18).
+Connected U1 pin 18 to unconnected-(U1-SWP/SD3-Pad18).
+Add net unconnected-(U1-IO2-Pad24).
+Connected U1 pin 24 to unconnected-(U1-IO2-Pad24).
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 15 to GNDPWR.
+Connected U1 pin 1 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO4-Pad26).
+Connected U1 pin 26 to unconnected-(U1-IO4-Pad26).
+Add net unconnected-(U1-SCK/CLK-Pad20).
+Connected U1 pin 20 to unconnected-(U1-SCK/CLK-Pad20).
+Add net unconnected-(U1-SCS/CMD-Pad19).
+Connected U1 pin 19 to unconnected-(U1-SCS/CMD-Pad19).
+Add net unconnected-(U1-NC-Pad32).
+Connected U1 pin 32 to unconnected-(U1-NC-Pad32).
+Add net unconnected-(U1-IO13-Pad16).
+Connected U1 pin 16 to unconnected-(U1-IO13-Pad16).
+Connected U1 pin 39 to GNDPWR.
+Add net Net-(BZ1-+).
+Connected U1 pin 2 to Net-(BZ1-+).
+Add net unconnected-(U1-IO27-Pad12).
+Connected U1 pin 12 to unconnected-(U1-IO27-Pad12).
+Add net unconnected-(U1-IO21-Pad33).
+Connected U1 pin 33 to unconnected-(U1-IO21-Pad33).
+Add net unconnected-(U1-TXD0/IO1-Pad35).
+Connected U1 pin 35 to unconnected-(U1-TXD0/IO1-Pad35).
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 38 to GNDPWR.
+Add net unconnected-(U1-IO18-Pad30).
+Connected U1 pin 30 to unconnected-(U1-IO18-Pad30).
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Add net Net-(U1-SDI/SD1).
+Connected U1 pin 22 to Net-(U1-SDI/SD1).
+Add net unconnected-(U1-IO25-Pad10).
+Connected U1 pin 10 to unconnected-(U1-IO25-Pad10).
+Add net unconnected-(U1-IO32-Pad8).
+Connected U1 pin 8 to unconnected-(U1-IO32-Pad8).
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO14-Pad13).
+Connected U1 pin 13 to unconnected-(U1-IO14-Pad13).
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO33-Pad9).
+Connected U1 pin 9 to unconnected-(U1-IO33-Pad9).
+Add net unconnected-(U1-IO19-Pad31).
+Connected U1 pin 31 to unconnected-(U1-IO19-Pad31).
+Connected U1 pin 3 to Net-(DS1-VCC).
+Add net unconnected-(U1-IO12-Pad14).
+Connected U1 pin 14 to unconnected-(U1-IO12-Pad14).
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO23-Pad37).
+Connected U1 pin 37 to unconnected-(U1-IO23-Pad37).
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO5-Pad29).
+Connected U1 pin 29 to unconnected-(U1-IO5-Pad29).
+Add net unconnected-(U1-IO17-Pad28).
+Connected U1 pin 28 to unconnected-(U1-IO17-Pad28).
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO34-Pad6).
+Connected U1 pin 6 to unconnected-(U1-IO34-Pad6).
+Add net unconnected-(U1-SDO/SD0-Pad21).
+Connected U1 pin 21 to unconnected-(U1-SDO/SD0-Pad21).
+Add net Net-(U1-SENSOR_VN).
+Connected U1 pin 5 to Net-(U1-SENSOR_VN).
+Add net unconnected-(U1-IO35-Pad7).
+Connected U1 pin 7 to unconnected-(U1-IO35-Pad7).
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO16-Pad27).
+Connected U1 pin 27 to unconnected-(U1-IO16-Pad27).
+Add net unconnected-(U1-IO22-Pad36).
+Connected U1 pin 36 to unconnected-(U1-IO22-Pad36).
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO0-Pad25).
+Connected U1 pin 25 to unconnected-(U1-IO0-Pad25).
+Connected U1 pin 39 to GNDPWR.
+Add net unconnected-(U1-IO26-Pad11).
+Connected U1 pin 11 to unconnected-(U1-IO26-Pad11).
+Added U2 (footprint 'Sensor:ASAIR_AM2302_P2.54mm_Vertical').
+Changed REF** reference designator to U2.
+Changed U2 value from ASAIR_AM2302_P2.54mm_Vertical to AM2302.
+Updated U2 symbol association from  to /bac41c1e-7f8f-4f0c-b1b6-fa511aeed1b7.
+Updated U2 fields.
+Updated U2 sheetname to 'Root'.
+Updated U2 sheetfile to 'mars_rover_navigation_system.kicad_sch'.
+Updated U2 footprint filters to 'ASAIR*AM2302*P2.54mm*'.
+Connected U2 pin 2 to Net-(U1-SDI/SD1).
+Connected U2 pin 3 to GNDPWR.
+Connected U2 pin 4 to GNDPWR.
+Connected U2 pin 1 to Net-(BZ1-+).
+Added U3 (footprint 'Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias').
+Changed REF** reference designator to U3.
+Changed U3 value from HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias to BQ24090DGQ.
+Updated U3 symbol association from  to /cee7ad90-f219-4750-ad49-4a4c16a1c0c4.
+Updated U3 fields.
+Updated U3 sheetname to 'Root'.
+Updated U3 sheetfile to 'mars_rover_navigation_system.kicad_sch'.
+Updated U3 footprint filters to 'HVSSOP*1EP*3x3mm*P0.5mm*'.
+Add net Net-(BT1-+).
+Connected U3 pin 11 to Net-(BT1-+).
+Add net unconnected-(U3-PRETERM-Pad4).
+Connected U3 pin 4 to unconnected-(U3-PRETERM-Pad4).
+Add net unconnected-(U3-TS-Pad9).
+Connected U3 pin 9 to unconnected-(U3-TS-Pad9).
+Add net unconnected-(U3-~{CHG}-Pad8).
+Connected U3 pin 8 to unconnected-(U3-~{CHG}-Pad8).
+Connected U3 pin 10 to Net-(U1-SENSOR_VN).
+Add net Net-(BT1--).
+Connected U3 pin 5 to Net-(BT1--).
+Connected U3 pin 11 to Net-(BT1-+).
+Connected U3 pin 11 to Net-(BT1-+).
+Connected U3 pin 11 to Net-(BT1-+).
+Connected U3 pin 1 to GNDPWR.
+Connected U3 pin 3 to Net-(BT1-+).
+Add net unconnected-(U3-ISET-Pad2).
+Connected U3 pin 2 to unconnected-(U3-ISET-Pad2).
+Add net unconnected-(U3-NC-Pad6).
+Connected U3 pin 6 to unconnected-(U3-NC-Pad6).
+Connected U3 pin 11 to Net-(BT1-+).
+Add net unconnected-(U3-ISET2-Pad7).
+Connected U3 pin 7 to unconnected-(U3-ISET2-Pad7).
+Error: Cannot add BT1 (no footprint assigned).
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add BZ1 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 3.
