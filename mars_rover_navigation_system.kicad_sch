@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "d4a5cce3-ace2-475a-b389-fce50ad7df66")
 	(paper "A5")
+	(title_block
+		(title "MRNOS")
+		(date "2025-02-10")
+		(rev "v.1")
+	)
 	(lib_symbols
 		(symbol "Battery_Management:BQ24090DGQ"
 			(exclude_from_sim no)
