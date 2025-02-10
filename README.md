@@ -1,6 +1,6 @@
 # Mars Rover Navigation Optimization System 🛰
 
-The Mars Rover Navigation Optimization System is a passion project by [Tejas Gupta]() and [Ojas Gupta](). This system is designed for indoor environments, focusing on data mining and analysis rather than mobility. Obstacles will be placed to test its functionality while gathering and processing key environmental data like temperature and humidity.
+The Mars Rover Navigation Optimization System is a passion project by [Tejas Gupta](https://github.com/multiverseweb) and [Ojas Gupta](https://github.com/ojas-git). This system is designed for indoor environments, focusing on data mining and analysis rather than mobility. Obstacles will be placed to test its functionality while gathering and processing key environmental data like temperature and humidity.
 
 ## Objectives
 
